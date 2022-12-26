@@ -1,0 +1,16 @@
+﻿Clase abstracta Vs Interface
+
+Desde C# 7 puedes deficinir metodos en interfaces, antes de eso solo se podria en interfaces
+
+Usar clases abstractas solo si la jerarquia de la clase sea muy abstracta.
+
+
+Clases abstractas
+	* Iniciar herarquias.
+	* Pueden tenes estado y comportamiento.
+	* No es posible crear un objeto a partir de una clases abstracta (Inicia jeraraquia y no instancias)
+
+Interfaces
+	* Crear jerarquia de clases
+	* Una clase puede implementar MUCHAS interfces, pero solo puede heredar de UNA clase.
+	* Ayuda a simular la herencia multiple

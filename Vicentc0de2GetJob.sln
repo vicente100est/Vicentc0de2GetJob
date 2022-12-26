@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "POO", "POO", "{018B5569-DD19-4306-9338-AE8AA8F9C308}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Theory", "Theory", "{7B8DB79D-9D48-47A8-AD03-676A470D4D83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task", "Task", "{A1059D57-CCA5-4701-84A4-D3E43DEA98C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "X Tasks", "X Tasks", "{16984A57-4193-4A25-BAF4-00DD797CBC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesJob", "TesJob\TesJob.csproj", "{E0AA4B9B-E543-4140-A1BD-51C8DE4C6B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0AA4B9B-E543-4140-A1BD-51C8DE4C6B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0AA4B9B-E543-4140-A1BD-51C8DE4C6B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0AA4B9B-E543-4140-A1BD-51C8DE4C6B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0AA4B9B-E543-4140-A1BD-51C8DE4C6B93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B8DB79D-9D48-47A8-AD03-676A470D4D83} = {018B5569-DD19-4306-9338-AE8AA8F9C308}
+		{A1059D57-CCA5-4701-84A4-D3E43DEA98C5} = {018B5569-DD19-4306-9338-AE8AA8F9C308}
+		{E0AA4B9B-E543-4140-A1BD-51C8DE4C6B93} = {16984A57-4193-4A25-BAF4-00DD797CBC71}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A37EE613-19A3-4B64-B6E8-3795F4574DDA}
+	EndGlobalSection
+EndGlobal
